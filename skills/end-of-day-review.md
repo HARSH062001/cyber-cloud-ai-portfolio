@@ -12,7 +12,7 @@ Use at the end of the day, after a study block, or when the user wants a reset b
 
 - Completed tasks
 - Wins
-n- Blockers
+- Blockers
 - Energy or burnout signal
 - Tomorrow priorities
 
