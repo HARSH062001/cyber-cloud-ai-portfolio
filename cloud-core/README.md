@@ -1,41 +1,35 @@
 # Cloud Core
 
-Cloud Core is my practical cybersecurity learning framework inside this portfolio.
+Cloud Core is a supporting pathway inside this portfolio. Its purpose is to strengthen my SOC Analyst and Junior Security Analyst readiness with practical cloud knowledge, while also building a foundation for future cloud security growth.
 
-Each topic in Cloud Core must connect five outputs:
+My immediate career target is SOC-first. Cloud Core supports that direction by helping me understand how cloud identity, cloud logging, and cloud alerts appear in real security operations work.
+
+## How Cloud Core Supports SOC Work
+
+Cloud skills in this portfolio will first be used for:
+
+- CloudTrail log analysis
+- IAM risk understanding
+- GuardDuty alert understanding
+- Azure and Microsoft Sentinel cloud alerts
+- future cloud security pathway growth
+
+## Cloud Core Learning Model
+
+Each topic in Cloud Core should still connect practical outputs:
 
 - theory
 - lab
 - GitHub proof
-- Notion update
-- LinkedIn/resume output
+- Notion update later
+- LinkedIn or resume output later
 
-This structure helps me turn study into visible, repeatable evidence instead of isolated notes.
-
-## How I Will Use Cloud Core
-
-For each topic, I will move through the same cycle:
-
-1. Learn the theory and key terms.
-2. Design or complete a safe beginner lab.
-3. Capture evidence in GitHub.
-4. Update the related Notion tracker.
-5. Convert the work into interview, LinkedIn, and resume language.
-
-## Main Pathways
-
-- Security+
-- GRC
-- AWS, Azure, and GCP cloud security
-- SOC and SIEM
-- AI security
-
-## Current Foundation Topics
+## Current Supporting Topics
 
 - IAM foundations
-- Cloud logging foundations
+- cloud logging foundations
 - SIEM foundations
 - GRC controls foundations
 - AI security foundations
 
-Cloud Core is not a claim that these projects are finished. It is the learning system that connects theory to practical portfolio work.
+Cloud Core does not mean cloud security is my main immediate career target. It exists to support SOC work now and to create a stronger pathway into cloud security later.
