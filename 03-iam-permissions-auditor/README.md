@@ -28,6 +28,10 @@ Review IAM users, groups, roles, and policies to identify overly broad access.
 - How to reason about least privilege
 - How to document security findings in a simple report format
 
+## Cloud Core Connection
+
+This project will practically apply IAM foundations from Cloud Core by focusing on least privilege, policy review, and access-risk analysis. It is intended to connect IAM theory to a beginner-friendly portfolio artifact that shows how to identify overly broad permissions and explain why they matter.
+
 ## Future Evidence to Add
 
 - screenshots
